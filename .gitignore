@@ -1,0 +1,5 @@
+server.key
+.DS_Store
+data.json
+image/
+*.tmp
